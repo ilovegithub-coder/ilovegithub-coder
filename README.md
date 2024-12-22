@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilovegithub-coder
-- 👀 I’m interested in os cores
+- 👀 I’m interested in system programming
 - 🌱 I’m currently learning in russia
 - 💞️ I’m looking to collaborate on water
 - 📫 How to reach me new coder
